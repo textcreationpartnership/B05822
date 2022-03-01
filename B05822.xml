@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Grace, their Majesties High Commissioner, and the right honourable the Estates of Parliament. The petition of the principalls and regents of the University of St. Andrews, in behalf of the said university and colledges thereof.</title>
+            <author>University of St. Andrews.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690-1699?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05822</idno>
+            <idno type="STC">Wing S297A</idno>
+            <idno type="STC">ESTC R183171</idno>
+            <idno type="EEBO-CITATION">53299230</idno>
+            <idno type="OCLC">ocm 53299230</idno>
+            <idno type="VID">179967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179967)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2809:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Grace, their Majesties High Commissioner, and the right honourable the Estates of Parliament. The petition of the principalls and regents of the University of St. Andrews, in behalf of the said university and colledges thereof.</title>
+                  <author>University of St. Andrews.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Scotland :</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Univerity of St. Andrews. --  Finance --  Sources.</term>
+               <term>Universities and colleges --  Finance --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:179967:1"/>
+            <pb n="1" facs="tcp:179967:1"/>
+            <head>To his Grace, Their <hi>Majeſties</hi> High Commiſſioner, and the Right Honourable the Eſtates of <hi>Parliament.</hi>
+            </head>
+            <head type="sub">
+               <hi>The PETITION of</hi> The Principalls and Regents of the <g ref="char:V">Ʋ</g>niverſity of S. <hi>An<g ref="char:EOLhyphen"/>drews,</hi> in behalf of the ſaid <g ref="char:V">Ʋ</g>niverſity and Colledges thereof.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat where it is notourly known, that the foreſaid Univerſity, is the firſt and moſt ancient Univerſity within the Kingdom, and was from the be<g ref="char:EOLhyphen"/>ginning endwed with the greateſt Rents and Priviledges, and hath ever ſince been ſo reſpected and cared for; ſo that King <hi>Charles</hi> the firſt, after the ſup<g ref="char:EOLhyphen"/>preſſion of Biſhops in the year 1637. did give to the ſaid <g ref="char:V">Ʋ</g>niverſity, a Charter of Mortification of the whole Priory and Biſhoprick of St. <hi>Andrews,</hi> with a few Reſerves; which yet would have amounted to at leaſt, One thouſand Pounds <hi>Sterling</hi> yearly, for the uſe thereof; as the Charter dated in the year 1641, (ready to be produced) teſtifies: Which Donative, though ratified in Parliament the third of <hi>November</hi> the ſaid year, and many years poſſeſſed, was not only taken a<g ref="char:EOLhyphen"/>way by the reſtoring of Biſhops in the year 1662. But by the ſaid Reſtitution, the <g ref="char:V">Ʋ</g>niverſity was further laeſed without Remedy, in as much as, ſeveral Kirks which belonged before to its Patrimony, were upon the account of the ſaid Do<g ref="char:EOLhyphen"/>native taken from the Univerſity, and Augmentations granted to their Incum<g ref="char:EOLhyphen"/>bents: And yet when the Donative was taken away, the loſs of the Kirks was not repaired. And for any other Proviſion that was made afterwards, either by the gift of vacant Stipends of five conſiderable Biſhopricks, (whereof to this day, nothing hath been received) or by the King's Bounty and Benevolence out of his own Exchequer, of 200 <hi>lib. Sterling</hi> yearly, (whereof very little hath been received to this day, and the preſent Incumbents have gotten nothing thereof as yet;) and though what is yet gotten of the half months Ceſs, hath made ſome little Stock, yet no ways ſuitable to the neceſſity of that Univerſity; whereby it is but too well known, that this famous Univerſity, once the moſt frequent &amp; moſt convenient for Study, and beſt provided of all the <g ref="char:V">Ʋ</g>niverſities, both for variety of Profeſſions, the number of Profeſſors, and a competent allowance for thoſe, is at this day the worſt provided of all the Univerſities: And what for want of publick Profeſſors, and what for want of due Encouragment to thoſe that are, it is like to become deſolate. And albeit it hath pleaſed His Majeſty of late, to give the four Univerſities of the Kingdom, the ſum of 1200 pounds <hi>Sterling</hi> amongſt them, out of the Biſhops Rents, by a Signatour under his Hand, yet the ſame is to Forraign Profeſſors, and hath taken no effect, and is likely to take no effect
+<pb n="2" facs="tcp:179967:2"/>until the Signatour be further explained and perfected. And ſeing, that for the viſible Good, both of Church and State, theſe things deſerve a Parliamentary Conſideration,</p>
+            <p>May it therefore pleaſe your Grace, and the right Honourable the Eſtates of Parliament to recommend our deplorable condition effectually to his Majeſties Bounty, in reſtoring us to the Biſhoprick and Priory of St. <hi>Andrews,</hi> in as full and ample a way as it was granted by his Ma<g ref="char:EOLhyphen"/>jeſtie, in the year 1641, and confirmed by the Eſtates of Parliament <hi>November</hi> thereafter, that this antient and renowned Univerſity may be reſtored to its former Integrity, and provided with Profeſſors, and other founded perſons according to the foundation, and may no long<g ref="char:EOLhyphen"/>er continue in ſuch a Neceſſitous Condition, and the Profeſſors expoſ<g ref="char:EOLhyphen"/>ed to ſuch Straits, for want of Proviſion. And may it alſo pleaſe your Grace, and the Honourable Eſtates of Parliament, that the late Gift of 1200 <hi>lib. Sterling,</hi> may be explained, and applyed to the preſent Exigence of the Univerſities.</p>
+            <closer>
+               <signed>And your Grace and Lordſhips Petitioners ſhall everpray, &amp;c.</signed>
+            </closer>
+            <pb facs="tcp:179967:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
